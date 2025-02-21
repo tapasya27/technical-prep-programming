@@ -14,7 +14,6 @@ class Solution:
 	"""
 	def hasDuplicate(self, nums: List[int]) -> bool:
 		if len(nums) == 0:
-			print("empty array")
 			return False
 		nums.sort()
 		for i in range(len(nums)-1):
