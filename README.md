@@ -1,4 +1,4 @@
-# 💻Competitive Programming 💻
+# 💻Technical prep programming 💻
 
 ## NeetCode 150 Solutions Repository
 
