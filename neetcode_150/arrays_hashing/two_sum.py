@@ -1,5 +1,5 @@
 ﻿"""
-Problem:
+Problem: Given a number and a target sum, find the other num in a given array
 Difficulty: Easy 
 """
 
