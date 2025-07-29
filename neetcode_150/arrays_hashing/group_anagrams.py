@@ -1,5 +1,5 @@
 """
-Problem:
+Problem: Given multiple words in an array. Find anagrams and create a list of all the anagrams of that array
 Difficulty: Medium
 """
 

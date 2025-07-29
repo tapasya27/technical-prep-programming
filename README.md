@@ -16,3 +16,4 @@ Feel free to explore, contribute, or suggest optimizations.
 
 4. Group Anagrams -> Alot of new learnings. Default dict for all empty values in a list, tuple is hashable but dictionary is not. This is important to think when storing any data structure as the key. Ord to find values and doing a minus ord("a") which is the ASCII value gives the alphaet index in terms of 26 letters
 
+5. Top K frequemt items -> Learnings strategy on how to how to sort a list based on values and keys. That is the most optimzed approach. Sorting is. 
